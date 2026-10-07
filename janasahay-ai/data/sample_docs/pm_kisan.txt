@@ -1,0 +1,10 @@
+PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)
+Sample demo notes - always verify details on the official portal pmkisan.gov.in.
+
+Benefits: Income support of Rs 6,000 per year, paid in three equal instalments of Rs 2,000 every four months, transferred directly to the farmer's bank account through Direct Benefit Transfer (DBT).
+
+Eligibility: Landholding farmer families are eligible. Exclusions include institutional landholders, holders of constitutional posts, serving or retired government officers (except multi-tasking staff), income tax payers, and professionals such as doctors, engineers, lawyers and architects who are registered with professional bodies.
+
+Documents required: Aadhaar card, land ownership records, bank account details linked with Aadhaar, and a mobile number.
+
+Application process: Farmers can register through the PM-KISAN portal (Farmers Corner), through the nearest Common Service Centre (CSC), or via the local revenue officer or state nodal officer. Beneficiary status can be checked on the portal after registration.
